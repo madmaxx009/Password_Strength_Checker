@@ -41,8 +41,9 @@ Run the script using:
 
 ```bash
 python3 password_strength_checker.py
-You will be prompted to enter a password, and the tool will analyze and rate its strength, along with feedback if improvements are needed.
 ```
+You will be prompted to enter a password, and the tool will analyze and rate its strength, along with feedback if improvements are needed.
+
 
 ## Example
 ```bash
