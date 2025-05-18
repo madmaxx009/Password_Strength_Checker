@@ -34,14 +34,18 @@ Make sure you have Python 3 installed. Then clone the repository:
 ```bash
 git clone https://github.com/madmaxx009/Password_Strength_Checker.git
 cd Password_Strength_Checker
-
+```
 
 ## Usage
 Run the script using:
+
+```bash
 python3 password_strength_checker.py
 You will be prompted to enter a password, and the tool will analyze and rate its strength, along with feedback if improvements are needed.
+```
 
 ## Example
+```bash
 Password Strength Checker
 
 Enter your password: Test123
@@ -49,7 +53,7 @@ Enter your password: Test123
 Password Strength: Moderate  
 Suggestions to improve your password:  
 - Include at least one special character (e.g. !@#$%^&*).
-
+```
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
