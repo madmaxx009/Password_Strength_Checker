@@ -35,6 +35,7 @@ Make sure you have Python 3 installed. Then clone the repository:
 git clone https://github.com/madmaxx009/Password_Strength_Checker.git
 cd Password_Strength_Checker
 
+
 ## Usage
 Run the script using:
 python3 password_strength_checker.py
