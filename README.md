@@ -1,16 +1,14 @@
 Password Strength Checker
 
-##Description  
+## Description 
 This tool evaluates the strength of a given password based on multiple criteria including length, use of uppercase and lowercase letters, numbers, and special characters. It provides instant feedback to help users improve their passwords and ensure better security.
 
-##Features  
+## Features 
 Password Length: Ensures the password has at least 8 characters.  
 Uppercase Letters: Checks if the password contains uppercase letters (A-Z).  
 - **Lowercase Letters**: Checks if the password contains lowercase letters (a-z).  
 - **Numbers**: Verifies if the password includes numeric digits (0-9).  
 - **Special Characters**: Ensures the inclusion of special characters (e.g., !@#$%^&*()).
-
----
 
 ## How It Works  
 The script evaluates the password based on the following five criteria:
@@ -28,32 +26,30 @@ The password's strength is classified as:
 
 
 
-##Installation  
+## Installation  
 Make sure you have Python 3 installed. Then clone the repository:
 
 it clone https://github.com/madmaxx009/Password_Strength_Checker.git
 cd Password_Strength_Checker
 
-Usage
+## Usage
 Run the script using:
 python3 password_strength_checker.py
 You will be prompted to enter a password, and the tool will analyze and rate its strength, along with feedback if improvements are needed.
 
-Example
+## Example
 Password Strength Checker
 
-yaml
-Copy
-Edit
 Enter your password: Test123
 
 Password Strength: Moderate  
 Suggestions to improve your password:  
 - Include at least one special character (e.g. !@#$%^&*).
-License
+
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Author
+## Author
 Developed by Aswanth P for educational and cybersecurity awareness purposes.
 📍 Kozhikode, Kerala
 🔗 GitHub
