@@ -9,7 +9,7 @@ This tool evaluates the strength of a given password based on multiple criteria 
 - **Lowercase Letters**: Checks if the password contains lowercase letters (a-z).  
 - **Numbers**: Verifies if the password includes numeric digits (0-9).  
 - **Special Characters**: Ensures the inclusion of special characters (e.g., !@#$%^&*()).
-- **common Passwords**:Avoid using common passwords
+  
 ## How It Works  
 The script evaluates the password based on the following five criteria:
 
@@ -18,7 +18,8 @@ The script evaluates the password based on the following five criteria:
 3. **Lowercase Letters**: At least one lowercase letter (a-z).  
 4. **Numbers**: At least one number (0-9).  
 5. **Special Characters**: At least one special character (e.g., !@#$%^&*()).
-
+6. **common Passwords**: Avoid using common passwords.
+   
 The password's strength is classified as:
 
 - **Weak**: Meets fewer than 3 of the criteria.  
@@ -40,7 +41,7 @@ cd Password_Strength_Checker
 Run the script using:
 
 ```bash
-python3 password_strength_checker.py
+python3 passwd_checker.py 
 ```
 You will be prompted to enter a password, and the tool will analyze and rate its strength, along with feedback if improvements are needed.
 
@@ -49,11 +50,15 @@ You will be prompted to enter a password, and the tool will analyze and rate its
 ```bash
 Password Strength Checker
 
-Enter your password: Test123
+Enter your password: test123
 
-Password Strength: Moderate  
-Suggestions to improve your password:  
-- Include at least one special character (e.g. !@#$%^&*).
+Password Strength: weak  
+Suggestions:
+
+- Password should be at least 8 characters long.
+-use a mix of uppercase and lowercase letters.
+- Add at least one special character (e.g., !, @, #, $).
+.
 ```
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
