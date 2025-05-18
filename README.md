@@ -53,6 +53,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Author
 Developed by Aswanth P for educational and cybersecurity awareness purposes.
-📍 Kozhikode, Kerala
-🔗 GitHub
-📧 aswanthp009@gmail.com
+
