@@ -24,7 +24,7 @@ The password's strength is classified as:
 
 - **Weak**: Meets fewer than 3 of the criteria.  
 - **Moderate**: Meets at least 3 criteria.  
-- **Strong**: Meets all 5 criteria.
+- **Strong**: Meets all 6 criteria.
 
 ---
 
