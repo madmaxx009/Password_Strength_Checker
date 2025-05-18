@@ -9,7 +9,7 @@ This tool evaluates the strength of a given password based on multiple criteria 
 - **Lowercase Letters**: Checks if the password contains lowercase letters (a-z).  
 - **Numbers**: Verifies if the password includes numeric digits (0-9).  
 - **Special Characters**: Ensures the inclusion of special characters (e.g., !@#$%^&*()).
-
+- **common Passwords**:Avoid using common passwords
 ## How It Works  
 The script evaluates the password based on the following five criteria:
 
