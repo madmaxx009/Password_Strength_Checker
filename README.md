@@ -13,17 +13,19 @@ This tool evaluates the strength of a given password based on multiple criteria 
 ## How It Works  
 The script evaluates the password based on the following five criteria:
 
-1. Length: The password must be at least 8 characters long.  
-2. Uppercase Letters: At least one uppercase letter (A-Z).  
-3. Lowercase Letters: At least one lowercase letter (a-z).  
-4. Numbers: At least one number (0-9).  
-5. Special Characters: At least one special character (e.g., !@#$%^&*()).
+1. **Length**: The password must be at least 8 characters long.  
+2. **Uppercase Letters**: At least one uppercase letter (A-Z).  
+3. **Lowercase Letters**: At least one lowercase letter (a-z).  
+4. **Numbers**: At least one number (0-9).  
+5. **Special Characters**: At least one special character (e.g., !@#$%^&*()).
 
 The password's strength is classified as:
+
 - **Weak**: Meets fewer than 3 of the criteria.  
 - **Moderate**: Meets at least 3 criteria.  
 - **Strong**: Meets all 5 criteria.
 
+---
 
 
 ## Installation  
