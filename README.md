@@ -58,7 +58,6 @@ Suggestions:
 - Password should be at least 8 characters long.
 -use a mix of uppercase and lowercase letters.
 - Add at least one special character (e.g., !, @, #, $).
-.
 ```
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
