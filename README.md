@@ -31,7 +31,8 @@ The password's strength is classified as:
 ## Installation  
 Make sure you have Python 3 installed. Then clone the repository:
 
-it clone https://github.com/madmaxx009/Password_Strength_Checker.git
+```bash
+git clone https://github.com/madmaxx009/Password_Strength_Checker.git
 cd Password_Strength_Checker
 
 ## Usage
