@@ -4,8 +4,8 @@ Password Strength Checker
 This tool evaluates the strength of a given password based on multiple criteria including length, use of uppercase and lowercase letters, numbers, and special characters. It provides instant feedback to help users improve their passwords and ensure better security.
 
 ## Features 
-Password Length: Ensures the password has at least 8 characters.  
-Uppercase Letters: Checks if the password contains uppercase letters (A-Z).  
+- **Password Length**: Ensures the password has at least 8 characters.  
+- **Uppercase Letters**: Checks if the password contains uppercase letters (A-Z).  
 - **Lowercase Letters**: Checks if the password contains lowercase letters (a-z).  
 - **Numbers**: Verifies if the password includes numeric digits (0-9).  
 - **Special Characters**: Ensures the inclusion of special characters (e.g., !@#$%^&*()).
